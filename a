@@ -1,0 +1,500 @@
+  370  pavucontrol
+  371  pavucontrol --help
+  372  vim ./.config/i3/config
+  373  pavucontrol--display
+  374  pavucontrol --display
+  375  pavucontrol --display n
+  376  pavucontrol --display %0
+  377  pavucontrol
+  378  vim ./.config/i3/config
+  379  vim ./.config/i3/config
+  380  pavucontrol
+  381  pavucontrol
+  382  pavucontrol --display 
+  383  pavucontrol --display Applications
+  384  vim ./.config/i3/config
+  385  vim ./.config/i3/config
+  386  orage -
+  387  orage -t
+  388  orage -hellp
+  389  orage -v
+  390  orage -hellp
+  391  orage
+  392  orage --help
+  393  orage --toggle
+  394  orage -t
+  395  orage 
+  396  orage 
+  397  orage -p
+  398  orage
+  399  orage -p
+  400  orage -p
+  401  orage
+  402  orage -p
+  403  orage
+  404  orage
+  405  orage -p
+  406  orage 
+  407  orage -p
+  408  orage 
+  409  orage -t
+  410  orage -t
+  411  xfce4-power-manager-settings --help
+  412  vim ./.config/i3/config
+  413  xfce4-power-manager
+  414  thunar %F
+  415  thuna
+  416  thunar
+  417  vim ./.config/i3/config
+  418  vim ./.config/i3/config
+  419  vim ./.config/i3/config
+  420  vim ./.config/i3/config
+  421  vim ./.config/i3/config
+  422  zsh
+  423  exit
+  424  vim ./.config/i3/config
+  425  vim ./.config/i3/config
+  426  vim ./.config/i3/config
+  427  vim ./.config/i3/config
+  428  ls -al
+  429  cd ./.config/i3
+  430  ls -al
+  431  chmod 777 config
+  432  cd ./.config/i3
+  433  vim ./.config/i3/config
+  434  chmod -rwxrwxrwx config
+  435  chmod 666 config
+  436  vim ./.config/i3/config
+  437  ls -al
+  438  vim config
+  439  cd
+  440  ls 
+  441  touch a.sh
+  442  whoami
+  443  bash
+  444  pwd
+  445  vim a.sh
+  446  ls -al
+  447  ls -l
+  448  sh a.sh
+  449  chmod 777a.sh
+  450  chmod 777 a.sh
+  451  vim a.sh
+  452  a.sh
+  453  ./a.sh
+  454  chmod 666 a.sh
+  455  ./a.sh
+  456  chmod 722 a.sh
+  457  vim a.sh
+  458  ./a.sh
+  459  ls -l
+  460  chmod 222 a.sh
+  461  ls -l
+  462  ./a.sh
+  463  vim a.sh
+  464  chmod 222 a.sh
+  465  vim a.sh
+  466  sh a.sh
+  467  chmod 444 a.sh
+  468  sh a.sh
+  469  vim a.sh
+  470  sh a.sh
+  471  chmod 777 a.sh
+  472  vim a.sh
+  473  chmod 444 a.sh
+  474  vim a.sh
+  475  chmod 222 a.sh
+  476  vim a.sh
+  477  sh a.sh
+  478  sh a.sh
+  479  sh a.sh
+  480  sh a.sh
+  481  sh a.sh
+  482  sh a.sh
+  483  sh a.sh
+  484  sh a.sh
+  485  sh a.sh
+  486  sudo sh a.sh
+  487  rm -rf ./.config/i3/config
+  488  cd ./.config/i3
+  489  ls
+  490  cd bumblebee-status/
+  491  ls
+  492  cd ..
+  493  rm -rf *
+  494  yay linux
+  495  sudo pacman -S base-devel
+  496  trans :zh "base-devel"
+  497  trans :zh "devel"
+  498  trans  "devel"
+  499  ssh-keygen -t rsa -C "3033177137@qq.com"
+  500  ssh-keygen -t rsa -C "3033177137@qq.com"
+  501  ssh-keygen -t rsa -C "3033177137@qq.com"
+  502  ssh-keygen -t rsa -C "3033177137@qq.com"
+  503  cd .ssh
+  504  ls
+  505  cat id_rsa.pub
+  506  ssh -T git@github.com
+  507  git config --global user.name "boom3033"
+  508  git config --global user.email "3033177137@qq.com"
+  509  git remote add origin git@github.com:boom3033/boom.git
+  510  ssh -T git@github.com  
+  511  eval "$(ssh-agent -s)"
+  512  ssh-add
+  513  ssh -T git@github.com  
+  514  git remote add origin git@github.com:boom3033/l.git  
+  515   git init
+  516  git remote add origin git@github.com:boom3033/l.git  
+  517  cat config
+  518  cd .git
+  519  cat config
+  520  git add README  
+  521  git add README  
+  522  cd ..
+  523  git add README  
+  524  git add a
+  525  touch l.txt
+  526  git add l.txt
+  527  git commit -m "first commit"  
+  528   git push origin master  
+  529  ssh -T git@github.com
+  530  git pull origin master --allow-unrelated-histories
+  531   git remote add origin git@github.com:boom3033/666.git
+  532  git remote rm origin
+  533   git remote add origin git@github.com:boom3033/666.git
+  534  ls 
+  535  ls -a
+  536  cd .git
+  537  ls
+  538  gat config
+  539  cat config
+  540  cd ..
+  541  git add 1.txt
+  542  ls
+  543  git add l.xtx
+  544  git add l.txt
+  545  git commit -m "first commit" 
+  546  ls -a
+  547  git branch -a
+  548   git init
+  549  git commit -m "first commit" 
+  550  git status
+  551  git status
+  552  git push -u origin master 
+  553  git push -u origin master 
+  554  vim l.xtx
+  555  git push -u origin master 
+  556  git add l.txt
+  557  git push -u origin master 
+  558  git push -u origin master 
+  559  vim a.c
+  560  git add a.c 
+  561  git push -u origin master 
+  562  git pull
+  563  ls
+  564  git push -u origin master 
+  565  git add a.c
+  566  git push -u origin master 
+  567  git branch --set-upstream-to=origin/master master 
+  568  git add a.c
+  569  git push -u origin master 
+  570  git up-to-date
+  571  git push -fu origin master 
+  572  git push -f origin master 
+  573  git clone
+  574  git checkout -b develop origin/develop
+  575  git branch --set-upstream-to=origin/master master 
+  576  git push -f origin master 
+  577  git push -u origin master 
+  578  git pull
+  579  git push -u origin master 
+  580  git config pull.rebase false
+  581  git config pull.rebase true
+  582  git config pull.ff only
+  583  git push -u origin master 
+  584  git pull
+  585  git pull
+  586  git pull
+  587  git pull
+  588  git pull
+  589  git pull
+  590  git pull
+  591  git pull
+  592  git pull
+  593  git pull
+  594  git pull
+  595  git pull
+  596  git pull
+  597  git pull
+  598  git pull
+  599  git pull --rebase origin master
+  600  git config -l
+  601  git config --system -l
+  602  git config --system --list
+  603  whereis  git
+  604  cd /usr/share/git
+  605  ll
+  606  ls -al
+  607  vim gitconfig
+  608  cd 
+  609  ls
+  610  cd c
+  611  ls
+  612  cd a
+  613  git init
+  614  cd .git
+  615  ls
+  616  cd ..
+  617  ssh-keygen 
+  618  ls
+  619  ls -a
+  620  cd .git
+  621  ls -a
+  622  cat config
+  623  cat description 
+  624  ssh-keygen -t rsa -C "3033177137@qq.com"
+  625  ssh-keygen -t rsa -C "3033177137@qq.com"
+  626  cd .git
+  627  ls
+  628  cd ..
+  629  cd ..
+  630  ls
+  631  rm -rf c
+  632  rm -rf a.sh
+  633  mk c
+  634  mkdir github
+  635  cd github
+  636  ssh-keygen -t rsa -C "3033177137@qq.com"
+  637  cd .ssh
+  638  ls
+  639  ls -a
+  640  ssh-keygen -t rsa -C "3033177137@qq.com"
+  641  cd ..
+  642  cd .sh
+  643  cd .ssh
+  644  ls
+  645  cat id_rsa.pub
+  646  ssh -T git@github.com
+  647  cd ..
+  648  mkdir runoob-git-test 
+  649  cd runoob-git-test/ 
+  650  echo "# 菜鸟教程 Git 测试" >> README.md
+  651  ls
+  652  git init 
+  653  git add README.md 
+  654  git commit -m "添加 README.md 文件" 
+  655  git remote add origin git@github.com:tianqixin/runoob-git-test.git
+  656  git push -u origin master
+  657  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  658  git init
+  659  git add README.md 
+  660  git commit -m "添加 README.md 文件" 
+  661  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  662  git remote rm origin
+  663  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  664  git add README.md  
+  665  git commit -m "添加 README.md 文件"
+  666  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  667  git push -u origin master
+  668  git remote
+  669  git remote -v
+  670  git fetch
+  671  ls
+  672  ls -a
+  673  cd .git
+  674  ls -a
+  675  cd ..
+  676  cd ..
+  677  cd .ssh
+  678  ls -a
+  679  cd ..
+  680  ls
+  681  cd github
+  682  git push -u origin master
+  683  ls
+  684  cd ..
+  685  ls -a
+  686  ls 
+  687  cd runoob-git-test/
+  688  git push -u origin master
+  689  touch a
+  690  git add a
+  691  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  692  git push -u origin master
+  693  git remote rm origin
+  694  git push -u origin master
+  695  git remote add origin git@github.com:boom3033/runoob-git-test.git
+  696  git push -u origin master
+  697  git branch --set-upstream-to=origin/master master 
+  698  git checkout -b dev origin/master
+  699  git push -u origin master
+  700  git remote rm origin
+  701  git push -u origin master
+  702  git remote add origin git@github.com:boom3033/a.git
+  703  ls
+  704  git add a
+  705  git push -u origin master
+  706  git push -u origin master
+  707  git push -f
+  708  git push -u origin master
+  709  git init
+  710  git push -u origin master
+  711  git add README.md
+  712  git commit -m "first commit"
+  713  git remote add origin https://github.com/boom3033/a.git
+  714  git remote rm origin
+  715  git remote add origin https://github.com/boom3033/a.git
+  716  git push -u origin master
+  717  ouch 1.txt
+  718  touch 1.txt
+  719  echo -e "111\n222\n333" > 1.txt
+  720  cat 1.txt
+  721  git add 1.txt
+  722  git commit -m "add 1.txt"
+  723  git pust
+  724  git push -u origin master
+  725  git init
+  726  echo "# 这是一个git简单使用的经验介绍项目" >> README.md
+  727  ls
+  728  echo "# 这是一个git简222222222项目" >> README.md
+  729  git add README.md
+  730  git commit -m "添加了README文件"
+  731  git remote add origin https://github.com/boom3033/a.git
+  732  git push -u origin master
+  733  git remote add origin https://github.com/boom3033/a.git
+  734  git remote rm origin
+  735  git init
+  736  git remote add origin https://github.com/boom3033/g.git
+  737  git config --global user.name "boom3033"
+  738  git config --global user.email yysniper@qq.com
+  739  ls
+  740  git add 1.txt 
+  741  git commit -m "添加了README文件"
+  742  git push -u origin master
+  743  git push -u origin master
+  744  git push -u origin master
+  745  2
+  746  git commit -m "添加了README文件"
+  747  git commit -m "添加了README文件"
+  748  git push -u origin master
+  749  git status
+  750  git add 1.txt 
+  751  git status
+  752  git add 1.txt 
+  753  git add 1.txt 
+  754  git add 1.txt 
+  755  git add 1.txt 
+  756  git status
+  757  git reset 1.txt
+  758  git status
+  759  git status
+  760  git push -u origin master
+  761  cd ..
+  762  mkdir l
+  763  cd l
+  764  echo "# l" >> README.md
+  765  git init
+  766  git add README.md
+  767  git commit -m "first commit"
+  768  git branch -M main
+  769  git remote add origin https://github.com/boom3033/l.git
+  770  git push -u origin main
+  771  git push -u origin main
+  772  touch a
+  773  git add a
+  774  git commit -m "a"
+  775  git push -u origin main
+  776  git push -u origin main
+  777  vim a
+  778  git push -u origin main
+  779  git add a
+  780  git commit -m "a"
+  781  git push -u origin main
+  782  git push -u origin m
+  783  git add a
+  784  git commit -m "a"
+  785  vim a
+  786  git commit -m "a"
+  787  git add a
+  788  git commit -m "a"
+  789  git push -u origin m
+  790  git push -u origin main
+  791  git branch -M main
+  792  git branch -M ma
+  793  git push -u origin main
+  794  git add a
+  795  git commit -m "a"
+  796  git branch -M main
+  797  git commit -m "a"
+  798  git branch -M mai
+  799  git add a
+  800  git commit -m "a"
+  801  vim a
+  802  git commit -m "a"
+  803  mkdir mai
+  804  cd mai
+  805  touch aaa
+  806  git add aaa
+  807  git commit -m "a"
+  808  git push -u origin main
+  809* git push -u origin main
+  810  rm -rf aaa
+  811  git push -u origin mai
+  812  git branch -M main
+  813  git add aaa
+  814  git commit -m "akkkkk"
+  815  git push -u origin main
+  816  cd ..
+  817  vim a
+  818  git add aaa
+  819  git add a
+  820  git commit -m "akkkkk"
+  821  git push -u origin main
+  822  ls -a
+  823  cd ..
+  824  git push -u origin main
+  825  git push -u origin main
+  826  git push -u origin main
+  827  cd l
+  828  cd ..
+  829  vim kkk
+  830  cd l
+  831  git add kkk
+  832  git add ./kkk
+  833* 
+  834  git branch -M m
+  835  ls
+  836  git add a
+  837  git commit -m "akkkpppp"
+  838  cd a
+  839  mkdir a
+  840  cd a
+  841  mkdir m
+  842  mkdir 6
+  843  cd 6
+  844  touch 6
+  845  git add a
+  846  git add 6
+  847  git commit -m "akfadsfas"
+  848  git push -u origin m
+  849  cd ..
+  850  cd ..
+  851  mkdir f
+  852  cd f
+  853  git clone https://github.com/bojiangzhou/lyyzoo-ssms.git
+  854  ls
+  855  cd lyyzoo-ssms/
+  856  ls
+  857  git init
+  858  git add *
+  859  git branch -M m
+  860  git commit -m "akkkpppp"
+  861  ls
+  862  history 
+  863  history 862
+  864  history 861
+  865  history --help
+  866  git init
+  867  git add .
+  868  git commit -m "first commit"
+  869  history >> a
